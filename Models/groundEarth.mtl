@@ -1,0 +1,9 @@
+newmtl groundEarth_base_color
+Ka 0.000000 0.000000 0.000000
+Kd 0.886275 0.690196 0.000000
+Ks 0.640000 0.640000 0.640000
+Ns 18.379177
+d 1.000000
+Tr 0.000000
+map_Kd Capsule - Diffuse.PNG 
+

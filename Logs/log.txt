@@ -1,0 +1,49 @@
+[18:27:17]FraudTek version:1.0
+[18:27:18]/E:/Java/Edaxerum/out/artifacts/unnamed/Edaxerum_WIN.exe
+[18:27:18]Game Name:Murder Train
+[18:27:18]Target Width:1920
+[18:27:18]Target Height:1920
+[18:27:18]Window is Fullscreen:false
+---------------------------------------------
+[18:27:19]Looking for Source Folders...
+[18:27:19]Looking for /Images/ Folder:/E:/Java/Edaxerum/out/artifacts/unnamed//Images/
+[18:27:19]Looking for /Models/ Folder:/E:/Java/Edaxerum/out/artifacts/unnamed//Models/
+[18:27:19]Looking for /Sounds/ Folder:/E:/Java/Edaxerum/out/artifacts/unnamed//Sounds/
+[18:27:19]Looking for /Shaders/ Folder:/E:/Java/Edaxerum/out/artifacts/unnamed//Shaders/
+[18:27:19]Looking for /Scripting/ Folder:/E:/Java/Edaxerum/out/artifacts/unnamed//Scripting/
+[18:27:19]Looking for /res/ Folder:/E:/Java/Edaxerum/out/artifacts/unnamed//res/
+[18:27:19]Looking for /Web/ Folder:/E:/Java/Edaxerum/out/artifacts/unnamed//Web/
+[18:27:19]Looking for /Documentation/ Folder:/E:/Java/Edaxerum/out/artifacts/unnamed//Documentation/
+[18:27:19]Looking for /Logs/ Folder:/E:/Java/Edaxerum/out/artifacts/unnamed//Logs/
+---------------------------------------------
+[18:27:19]Initializing all engines associated with the game.
+[18:27:19]Initializing Engine:TextureManager...Success.
+[18:27:19]Initializing Engine:LightingEngine...Success.
+[18:27:19]Initializing Engine:CameraManager...Success.
+[18:27:19]Initializing Engine:EntityManager...Success.
+[18:27:19]Initializing Engine:Steam...Success.
+[18:27:19]Initializing Engine:SpriteBinder...Success.
+[18:27:19]Initializing Engine:ModelManager...Success.
+[18:27:19]Initializing Engine:MaterialManager...Success.
+[18:27:20]Initializing Engine:Controllers...Success.
+---------------------------------------------
+[18:27:20]Adding refrences to the scripting engine.
+[18:27:20]Adding class:Vector2f class:class org.joml.Vector2f
+[18:27:20]Adding class:Vector3f class:class org.joml.Vector3f
+[18:27:20]Adding class:Vector4f class:class org.joml.Vector4f
+[18:27:20]Adding class:Gui class:class graphics.gui.Gui
+[18:27:20]Adding class:Debouncer class:class base.util.Debouncer
+[18:27:20]Adding class:DistanceCalculator class:class base.util.DistanceCalculator
+[18:27:20]Adding class:EnumMouseButton class:class input.EnumMouseButton
+[18:27:20]Adding class:EntityModel class:class entity.EntityModel
+[18:27:20]Adding class:EntityPlayer class:class entity.EntityPlayer
+[18:27:20]Adding class:EntitySprite class:class entity.EntitySprite
+[18:27:20]Adding class:ModelLoader class:class models.ModelLoader
+[18:27:20]Adding class:Shader class:class shaders.Shader
+[18:27:20]Adding class:FBO class:class graphics.FBO
+[18:27:20]Adding class:FPSCamera class:class camera.FPSCamera
+[18:27:20]Adding class:DynamicCamera class:class camera.DynamicCamera
+[18:27:20]Adding class:Maths class:class math.Maths
+[18:27:20]Adding class:GL11 class:class org.lwjgl.opengl.GL11
+[18:27:20]Adding class:GL20 class:class org.lwjgl.opengl.GL20
+[18:27:20]Adding class:GL30 class:class org.lwjgl.opengl.GL30
